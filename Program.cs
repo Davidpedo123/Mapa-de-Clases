@@ -92,7 +92,7 @@ public class Maestro : Docente
         Console.WriteLine($"Me llamo {Nombre}");
     }
 
-    public void MDecirProfesion()
+    public void MMDecirProfesion()
     {
         Console.WriteLine($"Y soy un {Profesion}");
     }
